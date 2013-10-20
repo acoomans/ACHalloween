@@ -9,13 +9,13 @@ A library with halloween-themed animations for iOS.
 
 ACGlowingLabel: a glowing UILabel (spooky!)
 
-![screenshot label](https://github.com/acoomans/ACHalloween/raw/master/screenshots/screenshot-label.png)
+![screenshot label](https://github.com/acoomans/ACHalloween/raw/master/screenshots/screenshot-label.gif)
 
 ### Fingerprints
 
 ACFingerprintsView: a UIView that shows fingerprints when tapped (scary!). Fingerprints fade after a few seconds.
 
-![screenshot fingerprints](https://github.com/acoomans/ACHalloween/raw/master/screenshots/screenshot-fingerprints.png)
+![screenshot fingerprints](https://github.com/acoomans/ACHalloween/raw/master/screenshots/screenshot-fingerprints.gif)
 
 ### Bloodtrail
 
